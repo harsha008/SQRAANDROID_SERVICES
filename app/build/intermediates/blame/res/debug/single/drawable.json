@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/romania.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/romania.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/argentina.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/argentina.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/right.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/vietnam.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/vietnam.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/71740dfe11c733ba1180eca195cd844d40d01f72/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/tx.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/tx.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/ic_logout.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/ic_logout.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/lesotho.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/lesotho.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/turkey.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/turkey.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/netherlands.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/netherlands.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/expand.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/expand.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/austria.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/austria.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/71740dfe11c733ba1180eca195cd844d40d01f72/output/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/mexico.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/mexico.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/mexico.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/mexico.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/turkey.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/turkey.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/71740dfe11c733ba1180eca195cd844d40d01f72/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/poland.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/poland.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/bg.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/india.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/india.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/brazil.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/brazil.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/eu.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/eu.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/halewood.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/halewood.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/bg.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/bg.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/portugal.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/portugal.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/slovakia.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/slovakia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/southafrica.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/southafrica.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/macedonia.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/macedonia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/venezuela.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/venezuela.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/icon_logout.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/icon_logout.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/southkorea.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/southkorea.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/usa.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/usa.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/france.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/france.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/sqra_login1.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/sqra_login1.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/indonesia.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/indonesia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/sqra_login_land.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/sqra_login_land.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/71740dfe11c733ba1180eca195cd844d40d01f72/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/argentina.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/argentina.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/71740dfe11c733ba1180eca195cd844d40d01f72/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/right_.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/right_.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/hungary.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/hungary.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/canada.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/canada.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/down_.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/down_.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/71740dfe11c733ba1180eca195cd844d40d01f72/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/belgium.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/belgium.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/ic_logout.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/ic_logout.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/right.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/right.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/spain.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/spain.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/brazil.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/brazil.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/italy.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/italy.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/poland.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/poland.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/down.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/usa.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/usa.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/slovakia.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/slovakia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/down_.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/down_.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/vietnam.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/vietnam.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/lesotho.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/lesotho.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/uk.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/uk.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/sqra_login_land.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/sqra_login_land.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/canada.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/canada.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/slovenia.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/slovenia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/ic_logout1.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/ic_logout1.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/icon_logout.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/icon_logout.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/portugal.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/portugal.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/start.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/start.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/mi.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/mi.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/southafrica.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/southafrica.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/start.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/start.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/austria.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/austria.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/japan.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/japan.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/malaysia.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/malaysia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/right_.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/right_.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/thailand.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/thailand.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/down.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/down.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/thailand.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/thailand.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/halewood.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/halewood.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/japan.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/japan.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/czech.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/czech.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/china.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/china.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/china.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/china.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/germany.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/germany.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/romania.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/romania.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/czech.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/czech.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/serbia.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/serbia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/uk.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/uk.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/indonesia.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/indonesia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/india.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/india.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/serbia.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/serbia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/eu.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/eu.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/71740dfe11c733ba1180eca195cd844d40d01f72/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/netherlands.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/netherlands.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/germany.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/germany.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/mi.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/mi.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/russia.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/russia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/russia.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/russia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/france.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/france.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/malaysia.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/malaysia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/sweden.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/sweden.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/tx.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/tx.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/venezuela.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/venezuela.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/round_button.xml",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/round_button.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/italy.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/italy.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/round_button.xml",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/round_button.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/hungary.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/hungary.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/macedonia.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/macedonia.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/71740dfe11c733ba1180eca195cd844d40d01f72/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/southkorea.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/southkorea.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/ic_logout1.png",
+        "source": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/ic_logout1.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/sweden.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/sweden.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/spain.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/spain.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/sqra_login1.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/sqra_login1.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/expand.xml",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/expand.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/sriharshathulluri/.android/build-cache/e70f0be38f26493b98cbdefd217f75064099f0b2/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/belgium.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/belgium.png"
+    },
+    {
+        "merged": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/res/merged/debug/drawable/slovenia.png",
+        "source": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/src/main/res/drawable/slovenia.png"
+    }
+]

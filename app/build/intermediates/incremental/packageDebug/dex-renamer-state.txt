@@ -1,0 +1,7 @@
+#Mon Aug 07 23:13:24 EDT 2017
+base.0=/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3032973e0c0df7dc199d67f1319ed66f773f8f3f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d49c3fd5e614e6ce36300c57df5784a921bf404d/classes.dex
+base.1=/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d49c3fd5e614e6ce36300c57df5784a921bf404d
+file.0=/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3032973e0c0df7dc199d67f1319ed66f773f8f3f/classes.dex

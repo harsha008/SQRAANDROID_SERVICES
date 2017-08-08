@@ -1,0 +1,202 @@
+[
+    {
+        "outputFile": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 54,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 69,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 69,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 41,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 41,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 125,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 125,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 61,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 61,
+                        "endOffset": 199
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-et/values-et.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 54,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 69,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 69,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 41,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 41,
+                        "endOffset": 241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 125,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 125,
+                        "endOffset": 137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 61,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/src/main/res/values-et/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 61,
+                        "endOffset": 199
+                    }
+                }
+            }
+        ]
+    }
+]

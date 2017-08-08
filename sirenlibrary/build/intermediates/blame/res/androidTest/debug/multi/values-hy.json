@@ -1,0 +1,202 @@
+[
+    {
+        "outputFile": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hy/values-hy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 70,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 70,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 44,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 44,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 140,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 140,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 66,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/dev/adient/updated apps/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 66,
+                        "endOffset": 425
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-hy/values-hy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 70,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 70,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 44,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 44,
+                        "endOffset": 217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 140,
+                    "endOffset": 358
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 140,
+                        "endOffset": 358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 363,
+                    "endColumn": 66,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/Users/sriharshathulluri/Desktop/Adient-SQRAAndroid-refresh-Ui-master/sirenlibrary/build/intermediates/bundles/debug/res/values-hy/values-hy.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 66,
+                        "endOffset": 425
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.adient.mobility.sqra.activity.ListDetailActivity">
+
+    <SearchView
+        android:id="@+id/search_yview"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp"
+        android:background="#fff"
+        android:focusable="false"
+        android:queryHint="search with manufacturing site" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_below="@+id/search_yview"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#88000000"/>
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_below="@+id/view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/detail_text_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ajac"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/detail_img_flag"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_gravity="end"
+            android:src="@drawable/india"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="13dp"
+            android:layout_marginEnd="13dp" />
+
+    </RelativeLayout>
+
+    <ExpandableListView
+        android:layout_below="@+id/relative"
+        android:id="@+id/expandview1"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+        android:childDivider="#00000000"
+        android:cacheColorHint="#00000000"
+        android:scrollbarSize="0dp"
+        android:divider="#00000000"
+        android:dividerHeight="0.5dp"
+        android:layout_alignBottom="@+id/view2"/>
+
+    <View
+        android:layout_alignTop="@+id/horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#88000000"
+        android:id="@+id/view2" />
+    <HorizontalScrollView
+        android:id="@+id/horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:scrollbars="none">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <GridView
+                android:id="@+id/ygridView"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:columnWidth="50dp"
+                android:scrollbars="none"
+                android:smoothScrollbar="false"
+                android:stretchMode="none">
+
+            </GridView>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+
+
+</RelativeLayout>

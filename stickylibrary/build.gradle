@@ -1,0 +1,58 @@
+plugins {
+    id "com.jfrog.bintray" version "1.0"
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+}
+
+dependencies {
+    compile 'com.android.support:recyclerview-v7:22.0.0'
+}
+
+//apply from: 'gradle-maven-push.gradle'
+//
+//afterEvaluate {
+//    androidJavadocs.classpath += project.android.libraryVariants.toList().first().javaCompile.classpath
+//}
+
+
+// Remote server specific
+
+version = "0.4.02"
+group = "com.timehop.stickyheadersrecyclerview"
+
+Properties properties = new Properties()
+properties.load(project.rootProject.file('local.properties').newDataInputStream())
+
+bintray {
+    user = properties.getProperty("bintray.user")
+    key = properties.getProperty("bintray.apikey")
+
+    configurations = ['archives']
+    pkg {
+        repo = "test"
+        name = "sticky-headers-recyclerview"
+        publish = false
+    }
+}
+
+//task androidJavadocs(type: Javadoc) {
+//    // add this line
+//    failOnError false
+//}

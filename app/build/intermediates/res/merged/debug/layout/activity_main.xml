@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg">
+
+
+    <TextView
+        android:id="@+id/txt_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold"
+        android:padding="4dp"
+        android:textSize="20sp"
+        android:text="@string/header_title"
+        android:textColor="@color/yellow" />
+
+    <SearchView
+        android:id="@+id/search_view"
+        android:backgroundTint="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/txt_header"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:background="#fff"
+        android:focusable="false"></SearchView>
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_below="@+id/search_view"
+    android:layout_marginTop="10dp"
+    android:padding="10dp"
+    android:id="@+id/relative_header"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/txt_recycle_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:singleLine="true"
+        android:layout_alignParentLeft="true"
+        android:textSize="18sp"
+        android:text="@string/recycle_header"
+        android:textColor="@color/white" />
+
+    <ImageView
+        android:id="@+id/img_ascend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:src="@mipmap/ascending"/>
+
+
+</RelativeLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/relative_header"
+        android:layout_marginTop="10dp"
+        android:clipToPadding="true"
+        android:saveEnabled="false"
+        android:scrollbarSize="10dp"
+        android:scrollbars="vertical" />
+
+</RelativeLayout>

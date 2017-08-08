@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="@style/AppTheme.ActionBar.Transparent.NoActionBar"
+    tools:context="com.adient.mobility.sqra.activity.FragmentActivity">
+
+    <TextView
+        android:id="@+id/text_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="50dp"
+        android:textStyle="bold"
+        android:padding="4dp"
+        android:textSize="20sp"
+        android:text=""
+        style="@style/DetailTextColorTheme" />
+
+
+
+    <TextView
+        android:id="@+id/txt_recycle_header"
+        android:singleLine="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/text_header"
+        android:textStyle="bold"
+        android:padding="4dp"
+        android:textSize="18sp"
+        android:visibility="gone"
+        android:text="@string/recycle_header"
+        style="@style/DetailTextColorTheme" />
+
+
+    <GridLayout
+        android:id="@+id/gridLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_below="@+id/txt_recycle_header"
+        android:layout_marginRight="5dp"
+        android:columnCount="2"
+        android:rowCount="16">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_columnSpan="2"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:layout_row="0"
+            />
+
+        <TextView
+            android:id="@+id/text1"
+            style="@style/DetailTextColorTheme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_row="1"
+            android:padding="5dp"
+            android:text="@string/name"
+            android:textSize="@dimen/details_txt_size" />
+
+        <TextView
+            android:id="@+id/textName"
+            style="@style/DetailTextColorTheme"
+            android:layout_marginRight="0dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lines="2"
+            android:layout_column="1"
+            android:layout_row="1"
+            android:text="-"
+            android:textSize="10sp" />
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_columnSpan="2"
+            android:layout_marginTop="10dp"
+            android:background="@color/white_shade"
+            android:layout_row="2"
+            />
+
+
+        <TextView
+            android:id="@+id/text3"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="0"
+            android:layout_row="3"
+            android:padding="5dp"
+            android:text="@string/description"
+            android:textSize="@dimen/details_txt_size" />
+
+        <TextView
+            android:id="@+id/textDiscrip"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="1"
+            android:layout_row="3"
+            android:layout_marginLeft="3dp"
+            android:layout_width="fill_parent"
+            android:maxLines="2"
+            android:text="-"
+            android:textSize="@dimen/details_txt_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/white_shade"
+            android:layout_columnSpan="2"
+            android:layout_marginTop="10dp"
+            android:layout_row="4"
+            />
+
+        <TextView
+            android:id="@+id/text5"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="0"
+            android:layout_row="5"
+            android:padding="5dp"
+            android:text="@string/status"
+            android:textSize="@dimen/details_txt_size" />
+
+        <TextView
+            android:id="@+id/textStatus"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="1"
+            android:layout_row="5"
+            android:padding="5dp"
+            android:text="-"
+            android:textSize="@dimen/details_txt_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/white"
+            android:layout_columnSpan="2"
+            android:layout_marginTop="10dp"
+            android:layout_row="6"
+            />
+
+        <TextView
+            android:id="@+id/text7"
+            style="@style/DetailTextColorTheme"
+            android:layout_width="wrap_content"
+            android:layout_column="0"
+
+            android:layout_row="7"
+            android:padding="5dp"
+            android:text="@string/region"
+            android:textSize="@dimen/details_txt_size" />
+
+        <TextView
+            android:id="@+id/textRegion"
+            style="@style/DetailTextColorTheme"
+            android:layout_width="wrap_content"
+            android:layout_column="1"
+
+            android:layout_row="7"
+            android:padding="5dp"
+            android:text="-"
+            android:textSize="@dimen/details_txt_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_columnSpan="2"
+            android:background="@color/white"
+            android:layout_marginTop="10dp"
+            android:layout_row="8"
+            />
+
+        <TextView
+            android:id="@+id/text9"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="0"
+
+            android:layout_row="9"
+            android:padding="5dp"
+            android:text="@string/country"
+            android:textSize="@dimen/details_txt_size" />
+
+        <TextView
+            android:id="@+id/textCountry"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="1"
+            android:layout_row="9"
+            android:padding="5dp"
+            android:text="-"
+
+            android:textSize="@dimen/details_txt_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_columnSpan="2"
+            android:layout_marginTop="10dp"
+            android:background="@color/white"
+            android:layout_row="10"
+            />
+
+        <TextView
+            android:id="@+id/tex11"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="0"
+
+            android:layout_row="11"
+            android:padding="5dp"
+            android:text="@string/sop"
+            android:textSize="@dimen/details_txt_size" />
+
+        <TextView
+            android:id="@+id/textSop"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="1"
+
+            android:layout_row="11"
+            android:padding="5dp"
+            android:text="-"
+            android:textSize="@dimen/details_txt_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_columnSpan="2"
+            android:background="@color/white"
+            android:layout_marginTop="10dp"
+            android:layout_row="12"
+            />
+
+
+        <TextView
+            android:id="@+id/tex12"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="0"
+
+            android:layout_row="13"
+            android:padding="5dp"
+            android:text="@string/eop"
+            android:textSize="@dimen/details_txt_size" />
+
+        <TextView
+            android:id="@+id/textEop"
+            style="@style/DetailTextColorTheme"
+            android:layout_column="1"
+
+            android:layout_row="13"
+            android:padding="5dp"
+            android:text="-"
+            android:textSize="@dimen/details_txt_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_columnSpan="2"
+            android:background="@color/white_shade"
+            android:layout_marginTop="10dp"
+            android:layout_row="14"
+            />
+    </GridLayout>
+
+
+</RelativeLayout>

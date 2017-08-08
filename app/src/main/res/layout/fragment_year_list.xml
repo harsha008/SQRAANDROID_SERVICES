@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <SearchView
+    android:id="@+id/search_yview"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginRight="15dp"
+    android:layout_marginTop="5dp"
+    android:background="#fff"
+    android:focusable="false"
+    android:queryHint="search with manufacturing site" />
+    <ListView
+        android:id="@+id/list_country"
+        android:layout_below="@+id/view"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone">
+
+    </ListView>
+
+    <se.emilsjolander.stickylistheaders.StickyListHeadersListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:drawSelectorOnTop="true"
+        android:padding="16dp"
+        android:scrollbarStyle="outsideOverlay"
+        android:fastScrollEnabled="true"
+        android:overScrollMode="never"
+        android:layout_below="@+id/view"/>
+
+
+</LinearLayout>

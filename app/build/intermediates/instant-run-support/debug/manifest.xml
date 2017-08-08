@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adient.mobility.sqra"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.ActionBar.Transparent.NoActionBar" >
+        <activity
+            android:name="com.adient.mobility.sqra.activity.SplashActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.adient.mobility.sqra.activity.LoginActivity" />
+        <activity
+            android:name="com.adient.mobility.sqra.activity.StickyHeaderActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.adient.mobility.sqra.activity.NewStickyHeaderActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.adient.mobility.sqra.activity.ExpandableActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name="com.adient.mobility.sqra.activity.DetailActivity"
+            android:label="@string/app_name" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="577349ae8f71d96b38f9cbf4ed607ff4ef80b355" />
+
+        <activity
+            android:name="com.adient.mobility.sqra.activity.StartUpActivity"
+            android:label="@string/title_activity_start_up"
+            android:theme="@style/AppTheme.ActionBar.Transparent.NoActionBar" />
+        <activity
+            android:name="com.adient.mobility.sqra.activity.FragmentActivity"
+            android:label="@string/title_activity_fragment"
+            android:theme="@style/AppTheme.ActionBar.Transparent.NoActionBar" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.adient.mobility.sqra.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

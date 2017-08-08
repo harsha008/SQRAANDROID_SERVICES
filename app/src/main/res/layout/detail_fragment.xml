@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <SearchView
+        android:id="@+id/search_detail_view"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp"
+        android:background="#fff"
+        android:focusable="false"
+        android:queryHint="search with manufacturing site" />
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <TextView
+            android:id="@+id/detail_text_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ajac"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/detail_img_flag"
+            android:layout_width="50dp"
+            android:layout_height="30dp"
+            android:layout_gravity="end"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="13dp"
+            android:layout_marginEnd="13dp" />
+
+    </RelativeLayout>
+
+    <ExpandableListView
+        android:id="@+id/expandview"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:indicatorLeft="?android:attr/expandableListPreferredItemIndicatorLeft"
+        android:childDivider="#00000000"
+        android:cacheColorHint="#00000000"
+        android:scrollbarSize="0dp"
+        android:groupIndicator="@null"
+        android:divider="#000000"
+        android:dividerHeight="0.5dp"/>
+
+
+</LinearLayout>
